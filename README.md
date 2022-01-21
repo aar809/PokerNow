@@ -1,9 +1,9 @@
 ## PokerNow: Data Wrangling and EDA
 
-This notebook will look through the analysis of log files from a typical PokerNow session with my friends.
+This notebook will look through the analysis of the actual log file from a typical PokerNow session with my friends.
 
 
-I enjoy the analytical and statistical elements of the game, which is complemented nicely by the psychological warfare, making for a perfect tactical game to test your wits amongst friends. On top of this, during the lockdown, PokerNow naturally became a go-to platform for my friends and I to gather online and banter.
+Poker is a game of decision making in the face of incomplete information. It is a game of statistics, but also psychological strategizing, making a fun tactical game to test your wits amongst friends. During the lockdown, PokerNow naturally became a go-to platform for my friends and me to gather online and play.
 
 Needless to say, this analysis was a lot of fun to make, as it coincided with my interests in both poker and data. 
 The intended result was to gain a deeper insight into how each player played, rather than simply gauging off of win/loss amounts.
